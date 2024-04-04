@@ -9,3 +9,5 @@
 # All hyperparameters are included in main.py and labelled
 
 # The solver options are 'VQE', 'Gurobi', or 'new'
+
+# The file quantumPart.py refers to the PCE-based solver
