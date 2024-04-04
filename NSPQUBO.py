@@ -128,6 +128,9 @@ def nurseSchedulingQUBO(parameters):
     return Q
 
 def quboToIsing(qubo_matrix):
+    '''
+    Converts the QUBO matrix to a spin problem matrix - Provided by GitHub CoPilot
+    '''
     # Get the size of the QUBO matrix
     n = len(qubo_matrix)
 
