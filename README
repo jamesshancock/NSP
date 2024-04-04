@@ -1,0 +1,7 @@
+## In order to run this code you will need several packages, namely:
+# -math, time, multiprocessing (standard python)
+# -numpy
+# -qiskit
+# -qiskit-aer
+# -sympy
+# -gurobipy
