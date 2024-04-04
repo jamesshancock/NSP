@@ -5,3 +5,7 @@
 # -qiskit-aer
 # -sympy
 # -gurobipy
+
+# All hyperparameters are included in main.py and labelled
+
+# The solver options are 'VQE', 'Gurobi', or 'new'
